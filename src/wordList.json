@@ -1,0 +1,10 @@
+[
+   { "word": "ALGORITHM", "hint": "A step-by-step procedure for solving problem or accomplishing a task"},
+   { "word": "JAVASCRIPT", "hint": "A popular programming language." },
+   { "word": "PYTHON", "hint": "A snake and also a programming language." },
+   { "word": "REACT", "hint": "A JavaScript library for building user interfaces." },
+   { "word": "DATABASE", "hint": "A structured set of data stored electronically"},
+   { "word": "ARRAY", "hint": "A data structure that can hold multiple values." },
+   { "word": "ENCRYPTION", "hint": "A process of encoding information to protect it from unauthorized access" },
+   { "word": "GITHUB", "hint": "A platform for version control and collaboration." }
+]

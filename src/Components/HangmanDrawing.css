@@ -1,0 +1,83 @@
+.first{
+    width: 0.5rem;
+    height: 4rem; 
+    background-color: white;
+    position: absolute; 
+    top: 0;
+    right: 0;
+}
+.second{
+    width: 12rem; 
+    height: 0.5rem; 
+    background-color: white;
+    margin-left: 9rem;
+}
+.third{
+    width: 0.5rem;
+    height: 20rem;
+    background-color: white;
+    margin-left: 9rem;
+}
+.fourth{
+    width: 18rem;
+    height: 0.5rem;
+    background-color: white;
+}
+
+@media (max-width: 1060px){
+    .third{
+        width: 0.4rem;
+        height: 20rem;
+        margin-left: 7rem;
+    }
+    .second{
+        width: 11rem; 
+        margin-left: 7rem;
+    }
+    .fourth{
+        width: 15rem;
+        
+    }
+}
+
+@media (max-width: 800px){
+    .first{
+        width: 0.4rem;
+        height: 3rem;
+    }
+    .fourth{
+        width: 15rem;
+        height: 0.4rem;
+    }
+    .third{
+        width: 0.4rem;
+        height: 16rem;
+        margin-left: 7rem;
+    }
+    .second{
+        width: 9rem; 
+        height: 0.4rem;
+        margin-left: 7rem;
+    }
+}
+
+@media (max-width: 600px){
+    .first{
+        width: 0.3rem;
+        height: 3rem;
+    }
+    .fourth{
+        width: 14rem;
+        height: 0.3rem;
+    }
+    .third{
+        width: 0.3rem;
+        height: 15rem;
+        margin-left: 6rem;
+    }
+    .second{
+        width: 9rem; 
+        height: 0.3rem;
+        margin-left: 6rem;
+    }
+}
